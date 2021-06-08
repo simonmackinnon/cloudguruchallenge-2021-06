@@ -1,5 +1,0 @@
-vpc
-database
-webserver
-elasticache
-cicd
